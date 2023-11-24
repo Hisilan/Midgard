@@ -1,0 +1,21 @@
+.osnova
+{
+    width: auto;
+    height: auto;
+    border: 2px solid red;
+    background: url(fon1.jpg) no-repeat;
+}
+.header
+{
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(34, 255, 0);
+}
+
+.footer
+{
+    width: auto;
+    height: 1000px;
+    border: 2px solid rgb(187, 0, 255);   
+    background: rgb(129, 128, 128)
+}
